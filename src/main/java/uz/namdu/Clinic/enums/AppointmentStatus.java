@@ -1,4 +1,4 @@
-package uz.namdu.enums;
+package uz.namdu.Clinic.enums;
 
 public enum AppointmentStatus {
     PENDING,

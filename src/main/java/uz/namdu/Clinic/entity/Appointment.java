@@ -6,7 +6,7 @@ import lombok.Data;
 import lombok.NoArgsConstructor;
 import org.springframework.data.annotation.CreatedDate;
 import org.springframework.data.annotation.LastModifiedDate;
-import uz.namdu.enums.AppointmentStatus;
+import uz.namdu.Clinic.enums.AppointmentStatus;
 
 import java.time.LocalDateTime;
 import java.util.UUID;

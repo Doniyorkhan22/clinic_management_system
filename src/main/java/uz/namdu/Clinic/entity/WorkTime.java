@@ -4,9 +4,8 @@ import jakarta.persistence.*;
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
-import uz.namdu.enums.Days;
+import uz.namdu.Clinic.enums.Days;
 
-import javax.print.Doc;
 import java.time.LocalDateTime;
 import java.util.UUID;
 
